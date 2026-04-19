@@ -1,0 +1,68 @@
+[2m9:04:14 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\VSC\My portfolio\Portfolio\src\sections\Hero.jsx: Expected corresponding JSX closing tag for <a>. (37:8)
+
+[0m [90m 35 |[31m             [33mDownload[31m [33mResume[31m
+ [90m 36 |[31m           [33m<[31m[33m/[31m[33ma[31m[33m>[31m
+[31m[1m>[22m[31m[90m 37 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m         [31m[1m^[22m[31m
+ [90m 38 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 39 |[31m     [33m<[31m[33m/[31m[33msection[31m[33m>[31m
+ [90m 40 |[31m   )[33m;[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/VSC/My portfolio/Portfolio/src/sections/Hero.jsx[39m:37:8
+[33m  35 |              Download Resume
+  36 |            </a>
+  37 |          </div>
+     |          ^
+  38 |        </div>
+  39 |      </section>[39m
+      at constructor (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:6599:19)
+      at JSXParserMixin.jsxParseElementAt (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:4727:16)
+      at JSXParserMixin.jsxParseElementAt (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:4698:32)
+      at JSXParserMixin.jsxParseElementAt (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:4698:32)
+      at JSXParserMixin.jsxParseElementAt (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:4698:32)
+      at JSXParserMixin.jsxParseElement (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:4749:17)
+      at JSXParserMixin.parseExprAtom (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:4759:19)
+      at JSXParserMixin.parseExprSubscripts (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10831:21)
+      at C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10800:39
+      at JSXParserMixin.allowInAnd (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12426:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10800:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12493:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:11675:28)
+      at JSXParserMixin.parseExprAtom (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10831:21)
+      at JSXParserMixin.parseExpressionBase (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10784:23)
+      at C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10780:39
+      at JSXParserMixin.allowInAnd (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12421:16)
+      at JSXParserMixin.parseExpression (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:10780:17)
+      at JSXParserMixin.parseReturnStatement (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:13142:28)
+      at JSXParserMixin.parseStatementContent (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12798:21)
+      at JSXParserMixin.parseStatementLike (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12767:17)
+      at JSXParserMixin.parseStatementListItem (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12747:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:13316:61)
+      at JSXParserMixin.parseBlockBody (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:13309:10)
+      at JSXParserMixin.parseBlock (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:13297:10)
+      at JSXParserMixin.parseFunctionBody (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12100:24)
+      at JSXParserMixin.parseFunctionBodyAndFinish (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12086:10)
+      at C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:13445:12
+      at JSXParserMixin.withSmartMixTopicForbiddingContext (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12403:14)
+      at JSXParserMixin.parseFunction (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:13444:10)
+      at JSXParserMixin.parseFunctionStatement (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:13125:17)
+      at JSXParserMixin.parseStatementContent (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12791:21)
+      at JSXParserMixin.parseStatementLike (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12767:17)
+      at JSXParserMixin.parseModuleItem (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:12744:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (C:\VSC\My portfolio\Portfolio\node_modules\@babel\parser\lib\index.js:13316:36)
+^C^C

@@ -1,0 +1,29 @@
+
+> marwan-portfolio@0.0.0 dev
+> vite --host 127.0.0.1 --port 4173
+
+Re-optimizing dependencies because vite config has changed
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m735[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m4173[22m/[39m
+[2m8:53:52 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m8:53:52 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m8:57:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/DarkVeil.jsx[22m
+[2m9:04:14 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/sections/Hero.jsx[22m
+[2m9:04:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/sections/Hero.jsx[22m
+[2m9:47:11 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m9:47:11 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/sections/Hero.jsx[22m
+[2m9:47:11 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m9:51:20 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/LiquidGlassButton.jsx[22m
+[2m9:51:20 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/sections/Hero.jsx[22m
+[2m9:51:20 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m9:52:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m9:54:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m9:54:00 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/LiquidGlassButton.jsx[22m
+[2m9:54:01 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/sections/Hero.jsx[22m
+[2m9:54:01 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m9:56:01 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m10:16:38 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m10:16:59 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/LiquidGlassButton.jsx[22m
+[2m10:18:12 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
